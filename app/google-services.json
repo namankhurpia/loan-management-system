@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180199155975",
+    "firebase_url": "https://st-project-4a95a.firebaseio.com",
+    "project_id": "st-project-4a95a",
+    "storage_bucket": "st-project-4a95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180199155975:android:32ef929a1dd3fdd9",
+        "android_client_info": {
+          "package_name": "com.namankhurpia.loanmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180199155975-qno3fomvq6asjppb1jt0a0jqsopkno8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.namankhurpia.loanmanagementsystem",
+            "certificate_hash": "e25938278698e57a74a4a2841511fea5650452ec"
+          }
+        },
+        {
+          "client_id": "180199155975-m10jhasv9250arpl20oo1h9n78m534dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzmhI2QHqwMR5eHTCMGBLoz2NNbkQFGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180199155975-m10jhasv9250arpl20oo1h9n78m534dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
